@@ -8,6 +8,8 @@ function Page1 () {
         <div>
             <h3>This is Hello Component</h3>
             <h3>This is Hello Component</h3>
+            <h3>This is Hello Component</h3>
+            <h3>This is Hello Component</h3>
             
         </div>
     )
