@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import './App.css';
-import Hello from './components/sayHello';
 import Tweet from './components/tweet';
 import State from './components/useStat';
 function App() {
