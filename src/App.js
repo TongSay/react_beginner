@@ -19,7 +19,7 @@ function App() {
 
       {/* <h1>This is App Component</h1> */}
 
-    {/* <Hello /> */}
+    <Hello />
 
     {/* <Tweet name="Say Tong" message="This is my Tweet" />
     <Tweet name=" Jon son" message="This is my Couse" />
