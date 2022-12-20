@@ -13,4 +13,4 @@ function Page1 () {
     )
 }
 
-export default Hello;
+export default Page1;
