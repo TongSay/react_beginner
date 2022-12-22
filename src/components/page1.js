@@ -11,6 +11,11 @@ function Page1 () {
             <h3>This is Hello Component</h3>
             <h3>This is Hello Component</h3>
             <h3>This is Hello Component</h3>
+            <h3>This is Hello Component</h3>
+            <h3>This is Hello Component</h3>
+            <h3>This is Hello Component</h3>
+            <h3>This is Hello Component</h3>
+            <button onClick={page1}>Plese Click me!</button>
             <button onClick={page1}>Plese Click me!</button>
         </div>
     )
