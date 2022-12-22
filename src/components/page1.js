@@ -6,7 +6,6 @@ function Page1 () {
       }
     return (
         <div>
-            <h3>This is branch Pro</h3>
             <h3>This is Hello Component</h3>
             <h3>This is Hello Component</h3>
             <h3>This is Hello Component</h3>
